@@ -20,14 +20,14 @@ The dashboard provides a consolidated view of overall sales performance and allo
 * Data Cleaning & Analysis
 * Dashboard Design
 
-## Key KPIs
-| KPI                         Value |
-| ------------------ | -----------: |
-|  Total Revenue     | **$100.91M** |
-|  Total Orders      |  **199,563** |
-|  Marketing Spend   |  **$19.01M** |
-|  Boxes Shipped     |   **27.85M** |
-|  Average Discount  |   **13.08%** |
+## 📌 Key KPIs
+| KPI                  |        Value |
+| -------------------- | -----------: |
+| 💰 Total Revenue     | **$100.91M** |
+| 🛒 Total Orders      |  **199,563** |
+| 📢 Marketing Spend   |  **$19.01M** |
+| 📦 Boxes Shipped     |   **27.85M** |
+| 🏷️ Average Discount |   **13.08%** |
 
 ## Dashboard Features
 * Revenue by Product & Country
@@ -55,6 +55,7 @@ The dashboard supports better:
 * 💰 Pricing & promotional decisions
 
 ## Dashboard Preview
+https://github.com/dishachawla11/Chocolate_Sales_Performance_Dashboard/blob/main/Dashboard%20(2).png
 
 ## Project Files
 * `Chocolate_Sales__Dashboard.xlsx` — Excel workbook with analysis and dashboard
@@ -62,7 +63,6 @@ The dashboard supports better:
 * `README.md` — Project documentation
 
 ## Skills Demonstrated
-
 **Excel • Data Cleaning • Data Analysis • Pivot Tables • Data Visualization • KPI Development • Dashboard Design • Business Intelligence**
 
 ### Portfolio Project
