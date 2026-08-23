@@ -20,14 +20,14 @@ The dashboard provides a consolidated view of overall sales performance and allo
 * Data Cleaning & Analysis
 * Dashboard Design
 
-## 📌 Key KPIs
+## Key KPIs
 | KPI                  |        Value |
 | -------------------- | -----------: |
-| 💰 Total Revenue     | **$100.91M** |
-| 🛒 Total Orders      |  **199,563** |
-| 📢 Marketing Spend   |  **$19.01M** |
-| 📦 Boxes Shipped     |   **27.85M** |
-| 🏷️ Average Discount |   **13.08%** |
+|  Total Revenue     | **$100.91M** |
+|  Total Orders      |  **199,563** |
+|  Marketing Spend   |  **$19.01M** |
+|  Boxes Shipped     |   **27.85M** |
+|  Average Discount |   **13.08%** |
 
 ## Dashboard Features
 * Revenue by Product & Country
@@ -48,11 +48,11 @@ The dashboard provides a consolidated view of overall sales performance and allo
 
 ## Business Impact
 The dashboard supports better:
-* 📦 Inventory planning
-* 📈 Sales strategy
-* 🌎 Market prioritization
-* 📢 Marketing allocation
-* 💰 Pricing & promotional decisions
+* Inventory planning
+* Sales strategy
+* Market prioritization
+* Marketing allocation
+* Pricing & promotional decisions
 
 ## Dashboard Preview
 https://github.com/dishachawla11/Chocolate_Sales_Performance_Dashboard/blob/main/Dashboard%20(2).png
