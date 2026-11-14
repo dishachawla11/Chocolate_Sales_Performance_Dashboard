@@ -6,12 +6,12 @@ The data was cleaned, organized, and analyzed to create meaningful KPIs, Pivot T
 The dashboard provides a consolidated view of overall sales performance and allows users to explore key business metrics using interactive slicers for Product, Country, and Channel. It helps identify top-performing products and markets, understand channel contribution, evaluate salesperson performance, and compare marketing expenditure with revenue.
 
 ## Objectives
-* Analyze revenue and order performance
-* Identify top-performing products and countries
-* Compare sales channels
-* Evaluate marketing spend and discounts
-* Identify top-performing salespersons
-* Support data-driven business decisions
+* Analyze revenue and order performance.
+* Identify top-performing products and countries.
+* Compare sales channels.
+* Evaluate marketing spend and discounts.
+* Identify top-performing salespersons.
+* Support data-driven business decisions.
 
 ## Tech Stack
 * Microsoft Excel
@@ -52,7 +52,7 @@ The dashboard supports better:
 * Sales strategy
 * Market prioritization
 * Marketing allocation
-* Pricing & promotional decisions
+* Pricing & promotional decisions 
 
 ## Dashboard Preview
 https://github.com/dishachawla11/Chocolate_Sales_Performance_Dashboard/blob/main/Dashboard%20(2).png
